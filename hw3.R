@@ -1,6 +1,6 @@
 ########################
 #  HOWEWORK 3
-#  GT Account: kchen360
+#  
 #  Name: Kai-yu Chen
 ########################
 
