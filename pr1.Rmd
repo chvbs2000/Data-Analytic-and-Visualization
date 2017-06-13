@@ -1,8 +1,7 @@
 ---
 title: 'Project 1: Explore and Prepare Data'
 subtitle: |-
-  GT Account: kchen360 - Kai-yu Chen - CSE6242 - Data and Visual Analytics - Spring 2017
-  Due: Sunday, March 5, 2017 at 11:59 PM UTC-12:00 on T-Square
+  
 output:
   html_document: default
   html_notebook: default
